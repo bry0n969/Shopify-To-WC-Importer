@@ -22,8 +22,8 @@ define('product_author',1);
  * Shopify Settings
 ========================================*/
 define('site_url','https://v-belt-guys.myshopify.com/');
-define('api_key','e928e1755d57ca9cd535796bf4135481');
-define('api_pass','3e51335330146768d4c8ef5c321f1649');
+define('api_key','');
+define('api_pass','');
 define('product_fetch_limit','250');
 define('collections_fetch_limit','250');
 
