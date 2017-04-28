@@ -21,9 +21,9 @@ define('product_author',1);
 /*=======================================
  * Shopify Settings
 ========================================*/
-define('site_url','https://pink-panthers.myshopify.com/');
-define('api_key','1761b3a189540bcbcc74dbe04a31a13f');
-define('api_pass','0436bd25f14dd0ac015cad6634d46760');
+define('site_url','https://v-belt-guys.myshopify.com/');
+define('api_key','e928e1755d57ca9cd535796bf4135481');
+define('api_pass','3e51335330146768d4c8ef5c321f1649');
 define('product_fetch_limit','250');
 define('collections_fetch_limit','250');
 
